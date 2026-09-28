@@ -606,7 +606,7 @@ $$(".tab").forEach(button => {
 const addButton = $("#addButton");
 
 if (addButton) {
-  addButton.onclick = () => add("ToDo");
+  addButton.onclick = () => add("schedule");
 }
 
 
